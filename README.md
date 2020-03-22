@@ -1,16 +1,17 @@
 # Integral-Derivative
 This program calculates the integral and the derivative of one of those functions ;
-1- f1(x) = x^2 / 4
 
-2- f2(X) = (-x^3 + 3x^2 + x-4√x)/2x√x
+ f1(x) = x^2 / 4
 
-3- f3(x) = sin(x)^2 - cos(x)^2
+ f2(X) = (-x^3 + 3x^2 + x-4√x)/2x√x
 
-4- f4(x) = sin(x)/1+cos(2x)
+ f3(x) = sin(x)^2 - cos(x)^2
 
-5- f5(x) = e^x
+ f4(x) = sin(x)/1+cos(2x)
 
-6- f6(x) = sinh(x)/ex^2
+ f5(x) = e^x
+
+ f6(x) = sinh(x)/ex^2
 
 for calculating the integral , we used Riemann integral ;
 * our distribution size is decided by the user .
